@@ -11,7 +11,7 @@ import javax.swing.UIManager;
  *
  * @author kowal_000
  */
-public class GuessNumberGUI {
+public class GuessNumberStartup {
 
     /**
      * @param args the command line arguments
